@@ -1,2 +1,4 @@
 # birinchi_botim
-start
+eco bot
+
+bu botdan quyidagicha foydalanish mumkin.
